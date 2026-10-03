@@ -1,0 +1,3 @@
+import connexion
+
+connexion.main()
